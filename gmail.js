@@ -100,4 +100,4 @@ async function sendEmail(to, subject, message, credentialsPath, tokenPath = './t
     }
 }
 
-module.exports = sendEmail;
+module.exports = { sendEmail };
