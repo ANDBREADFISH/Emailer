@@ -1,0 +1,27 @@
+{
+  "name": "simple_gmail_emailer",
+  "version": "1.0.0",
+  "description": "Simple Gmail Emailer using Gmail API",
+  "main": "gmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TheBreadFish",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "googleapis": "^139.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANDBREADFISH/Emailer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ANDBREADFISH/Emailer/issues"
+  },
+  "homepage": "https://github.com/ANDBREADFISH/Emailer#readme"
+}
